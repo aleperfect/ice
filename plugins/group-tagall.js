@@ -5,7 +5,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
     }
     let pesan = args.join` `
     let oi = `*🌟 𝘼𝙙𝙦𝙪𝙞𝙚𝙧𝙚 𝙚𝙡 𝙗𝙤𝙩 𝙖𝙦𝙪𝙞 ⤸*
-    https://chat.whatsapp.com/HhZUtxp2KRTD5rD5j09VCy ${pesan}`
+    https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY ${pesan}`
     let teks = `*𝘼𝘾𝙏𝙄𝙑𝙀𝙉𝙎𝙀 𝙋𝙇𝘼𝙉𝙏𝘼𝙎 𝙊 𝘾𝙐𝙋𝙊 👋🏻*\n\n ${oi}\n\n *𝙀𝙏𝙄𝙌𝙐𝙀𝙏𝘼 𝙂𝙀𝙉𝙀𝙍𝘼𝙇*\n`
     for (let mem of participants) {
     teks += `🐱🩵 @${mem.id.split('@')[0]}\n`}
