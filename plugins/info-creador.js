@@ -5,22 +5,22 @@ const handler = async (m, {conn, usedPrefix}) => {
 
 *Para mas informacion acerca del bot contactame*`.trim();
   const buttonMessage= {
-    'document': {url: `https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY`},
+    'document': {url: `https://chat.whatsapp.com/HhZUtxp2KRTD5rD5j09VCy`},
     'mimetype': `application/${document}`,
-    'fileName': `𝐂𝐀𝐆𝐀 𝐇𝐈𝐄𝐋𝐎`, 
+    'fileName': `𝙑𝙖𝙡𝙪 𝘽𝙤𝙩`, 
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY',
+        'mediaUrl': 'https://chat.whatsapp.com/HhZUtxp2KRTD5rD5j09VCy',
         'mediaType': 2,
         'previewType': 'pdf',
-        'title': '𝐂𝐀𝐆𝐀 𝐇𝐈𝐄𝐋𝐎',
+        'title': '𝙑𝙖𝙡𝙪 𝘽𝙤𝙩',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY'}},
+        'sourceUrl': 'https://chat.whatsapp.com/HhZUtxp2KRTD5rD5j09VCy'}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
