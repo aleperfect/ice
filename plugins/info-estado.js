@@ -22,10 +22,10 @@ const handler = async (m, { conn, usedPrefix }) => {
   const old = performance.now();
   const neww = performance.now();
   const rtime = (neww - old).toFixed(7);
-  const wm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
+  const wm = 'Readz Aleizn';
   const info = ` _*< INFO - ESTADO />*_
 
- [🤴🏻] *Prop.:* 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍
+ [🤴🏻] *Prop.:* Readz Aleizn
  [#️⃣] *WA:* wa.me/51992621701
 
  [💡] *Ping:* ${rtime}
@@ -68,8 +68,8 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
         mediaType: 2,
         previewType: "pdf",
-        title: "𝙑𝙖𝙡𝙪 𝘽𝙤𝙩",
-        body: "𝙑𝙖𝙡𝙪 𝘽𝙤𝙩",
+        title: "Readz Aleizn",
+        body: "Readz Aleizn",
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
       },
