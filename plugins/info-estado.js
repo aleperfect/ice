@@ -26,7 +26,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = ` _*< INFO - ESTADO />*_
 
  [🤴🏻] *Prop.:* Readz Aleizn
- [#️⃣] *WA:* wa.me/51992621701
+ [#️⃣] *WA:* wa.me/51992621601
 
  [💡] *Ping:* ${rtime}
  [🚀]*Uptime:* ${uptime}
