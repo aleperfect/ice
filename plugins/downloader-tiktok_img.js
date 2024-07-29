@@ -1,4 +1,4 @@
-// Code by Xnuvers007 ft. Jikarinka
+// Code by Xnuvers007 ft. Jikar
 // https://github.com/Xnuvers007/
 // 
 // Mejorado por @BrunoSobrino
