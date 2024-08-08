@@ -10,42 +10,42 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['51992621601', '👑 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 - Creador 👑', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 💫', false],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍💫', true],
-  ['51992621601', '💫 𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍¨💫', true],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'],  
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'],
-  ['51992621601'], 
-  ['51992621601'], 
-  ['51992621601']
+  ['51903114109', '👑 Dann bot - Creador 👑', true],
+  ['51903114109', '💫 Dann bot 💫', true],
+  ['51903114109', '💫 Dann bot 💫', true],
+  ['51903114109', '💫 Dann bot 💫', true],
+  ['51903114109', '💫 Dann bot 💫', true],
+  ['51903114109', '💫 Dann bot 💫', true],
+  ['51903114109', '💫Dann bot 💫', true],
+  ['51903114109', '💫 Dann bot 💫', false],
+  ['51903114109', '💫 Dann bot💫', true],
+  ['51903114109', '💫 Dann bot¨💫', true],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'], 
+  ['51903114109'],  
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'],
+  ['51903114109'], 
+  ['51903114109'], 
+  ['51903114109']
 ];
 
-global.suittag = ['51992621601'];
-global.prems = ['51992621601'];
+global.suittag = ['51903114109'];
+global.prems = ['51903114109'];
 
 global.packname = '𝑻𝒐𝒎𝒂  𝑺𝒕𝒊𝒄𝒌𝒆𝒓 🤖';
-global.author = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.wm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
-global.titulowm2 = `𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍`
-global.igfg = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍';
+global.author = 'Dann bot';
+global.wm = 'Dann bot';
+global.titulowm = 'Dann bot';
+global.titulowm2 = `Dann bot`
+global.igfg = 'Dann bot';
 global.wait = '*[ ⏳ ] Cargando...*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -66,15 +66,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖`;
-global.gt = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.mysticbot = '𝐑𝐄𝐀𝐃𝐙 𝐀𝐋𝐄𝐈𝐙𝐍 🤖';
-global.md = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
-global.mysticbot = 'https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY';
+global.wm2 = `${dia} ${fecha}\nDann bot 🤖`;
+global.gt = 'Dann bot 🤖';
+global.mysticbot = 'Dann bot 🤖';
+global.md = 'https://www.instagram.com/icedann_14';
+global.mysticbot = 'https://www.instagram.com/icedann_14';
 global.waitt = '*[ ⏳ ] Cargando...*';
 global.waittt = '*[ ⏳ ] Cargando...*';
 global.waitttt = '*[ ⏳ ] Cargando...*';
-global.nomorown = '51992621601';
+global.nomorown = '51903114109';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
